@@ -49,7 +49,6 @@ Strong bias for **clean engineering**, measurable impact, and shipping models th
 ---
 
 ## Featured Projects (selected)
-> Pin these repos on your profile once ready.
 
 - **Project 1 — Production ML Pipeline (Airflow + DVC + MLflow)**
   _Reliable training + evaluation pipeline with reproducibility and artifacts tracking._
