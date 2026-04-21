@@ -45,8 +45,6 @@ I build clean, reproducible ML workflows—focusing on experiment tracking, data
 
 ## Featured projects 📌
 
-> (Pin these for maximum profile impact.)
-
 - **Production ML Pipeline (Airflow + DVC + MLflow)**  
   Reliable training + evaluation pipeline with reproducibility, lineage, and artifact tracking.  
   **Tech:** Airflow, DVC, MLflow, Docker, GitHub Actions
