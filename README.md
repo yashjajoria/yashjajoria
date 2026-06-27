@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Yash Jajoria** — a **Computer Science student** currently working as an **AI Engineer Intern at Adda247**.
+Hi, I’m **Yash Jajoria**  a **Computer Science student** currently working as an **AI Engineer Intern at Adda247**.
 
 Previously, I worked as an **AI/ML Intern at Infosys Springboard**, where I built **LLM-powered applications** and **end-to-end AI solutions**.
 
